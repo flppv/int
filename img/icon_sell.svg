@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_sell</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OPT-2" transform="translate(-974.000000, -864.000000)">
+            <g id="icon_sell" transform="translate(975.000000, 864.000000)">
+                <polyline id="Stroke-1" stroke="#FF3C6A" points="24.4854 36.8125 20.6594 36.8125 10.5724 46.2045 10.5724 36.8125 0.4854 36.8125 0.4854 0.8125 52.4854 0.8125 52.4854 25.8125"></polyline>
+                <path d="M44.4854,31.3125 C37.0414,31.3125 30.9854,37.3685 30.9854,44.8125 C30.9854,52.2565 37.0414,58.3125 44.4854,58.3125 C51.9294,58.3125 57.9854,52.2565 57.9854,44.8125 C57.9854,37.3685 51.9294,31.3125 44.4854,31.3125 M44.4854,59.3125 C36.4904,59.3125 29.9854,52.8075 29.9854,44.8125 C29.9854,36.8175 36.4904,30.3125 44.4854,30.3125 C52.4804,30.3125 58.9854,36.8175 58.9854,44.8125 C58.9854,52.8075 52.4804,59.3125 44.4854,59.3125" id="Fill-2" fill="#FF3C6A"></path>
+                <polyline id="Stroke-4" stroke="#FF3C6A" points="52.4854 40.8125 43.3624 51.3655 37.4854 45.8125"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
